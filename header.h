@@ -1,0 +1,17 @@
+#pragma once
+#include <boost/asio.hpp>
+#include <boost/archive/text_iarchive.hpp>
+#include <boost/archive/text_oarchive.hpp>
+#include <boost/bind.hpp>
+#include <boost/shared_ptr.hpp>
+#include <boost/tuple/tuple.hpp>
+#include <iomanip>
+#include <string>
+#include <sstream>
+#include <vector>
+#include <boost/serialization/list.hpp>
+#include <conio.h>
+#include <thread>
+#include <mutex>
+#include <chrono>
+#include <condition_variable>
